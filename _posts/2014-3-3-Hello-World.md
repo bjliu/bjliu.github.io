@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello Pitt!
+published: true
 ---
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+As many of you know, 2017 marks a huge transition for me. I may be moving to help start up a church plant in University of Pittsburgh!
+![University of Pittsburgh]({{site.baseurl}}/https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/University_of_Pittsburgh_seal.svg/1200px-University_of_Pittsburgh_seal.svg.png)
+As I look back, I'm just in awe of how God has brought me to this point. As a freshmen in college back in 2011, I imagined I would end up building a hot tech startup or working at Google/Facebook/etc.
