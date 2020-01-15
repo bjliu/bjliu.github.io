@@ -5,13 +5,23 @@ permalink: /about/
 published: true
 ---
 
-I was caught by the vision to help build an Acts 2 Church in every college town. That is my passion and my love.
-It was through 
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a software engineer who specializes in backend engineering.
+
+If you're looking for an communicative, thoughtful, and creative software engineer with extensive full stack experience, contact me.
+
+I'm also curious about too much. Topics I'm deeply interested in regarding software are:
+* databases
+* DevOps
+* distributed systems
+* machine learning
+* data science
+* design
+* quantum computing
 
 ### Contact me
 
-bliu94539 at gmail dot com
+bliu94539@gmail.com
