@@ -10,7 +10,7 @@ One of the biggest attractions coming in to Printavo was learning about Ruby on 
 
 
 Of course, there's all the naysayers who say: "Isn't Rails dead?" or "I heard that Rails doesn't scale well." or "Ruby is too much magic and too much chaos."
-What I've learned though is that scability is about scaling horizontally and that performance boosts associated with "faster" languages (one type of vertical scaling) might give a 10-20% improvement, but isn't the core issue for the most part. In fact, Rails is still being used by many prominent web applications, such as Shopify, Airbnb, and Github.
+What I've learned though is that scability is about scaling horizontally and that performance boosts associated with "faster" languages might give a 10-20% improvement, but isn't the core issue for the most part. In fact, Rails is still being used by many prominent web applications, such as Shopify, Airbnb, and Github.
 
 
 So I'm excited to get started and to learn!
