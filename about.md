@@ -5,7 +5,8 @@ permalink: /about/
 published: true
 ---
 
-
+### Resume
+You can find my resume [here](https://www.dropbox.com/s/r4kdtyy4o7q4dix/resume.pdf?dl=0).
 
 ### More Information
 
