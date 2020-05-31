@@ -10,7 +10,7 @@ From the book, we find that an Active Record is defined as "An object that wraps
 
 The essence of an Active Record is a "Domain Model" in which the classes match very closely the record structure of an underlying database. Each Active Record is responsible for saving and loading to the database and also for any domain logic that acts on the data. The data structure of the Active Record should exactly match that of the database: one field in the class for each column in the table.
 
-I learned that Active Record has its weaknesses, though Active Record is a good choice for domain logic that isn't too complex (CRUD operations). In Rails, it helps to simplify your logic to adhere to convention. But when business logic is complex, you'll want to use an object's direct relationships, collections, inheritance, etc. In such cases, a [Data Mapper](https://www.martinfowler.com/eaaCatalog/dataMapper.html) would be a better fit, where you have an extra mapper class that acts as a "middleman" of sorts to the database.
+I learned that Active Record has its weaknesses, though. Active Record is a good choice for domain logic that isn't too complex (CRUD operations). In Rails, it helps to simplify your logic to adhere to convention. But when business logic is complex, you'll want to use an object's direct relationships, collections, inheritance, etc. In such cases, a [Data Mapper](https://www.martinfowler.com/eaaCatalog/dataMapper.html) would be a better fit, where you have an extra mapper class that acts as a "middleman" of sorts to the database.
 
 ```ruby
 # app/models/client.rb
