@@ -5,7 +5,7 @@ published: true
 ---
 Does the expression `50.days.ago` (rails syntactic sugar for a time 50 days ago before the current moment in time) respect the user’s timezone?
 
-50.days returns an `ActiveSupport::Duration` as we in the class `Numeric` in `time.rb`.
+50.days returns an `ActiveSupport::Duration` as we see in the class `Numeric` in `time.rb`.
 ```ruby
 def days
   ActiveSupport::Duration.days(self)
